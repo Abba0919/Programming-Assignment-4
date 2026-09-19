@@ -208,20 +208,6 @@ pip install pandas matplotlib notebook
 
 ---
 
-## ▶️ How to Run
-
-### Using Terminal / Command Prompt
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/ECE2112---EXPERIMENT-4.git
-
-# 2. Enter the folder
-cd ECE2112---EXPERIMENT-4
-
-# 3. Launch Jupyter
-jupyter notebook ECE2112_Experiment4.ipynb
-```
 
 ### Using Jupyter Notebook
 
