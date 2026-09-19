@@ -16,9 +16,6 @@
 - [Results & Interpretation](#-results--interpretation)
 - [Project File Structure](#-project-file-structure)
 - [Prerequisites & Requirements](#-prerequisites--requirements)
-- [How to Run](#-how-to-run)
-  - [Using Terminal / Command Prompt](#using-terminal--command-prompt)
-  - [Using Jupyter Notebook](#using-jupyter-notebook)
 - [Edge Cases Handled](#-edge-cases-handled)
 
 ---
