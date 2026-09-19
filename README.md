@@ -208,7 +208,6 @@ pip install pandas matplotlib notebook
 
 ---
 
-
 ### Using Jupyter Notebook
 
 1. Place `ECE2112_Experiment4.ipynb` and `board2.csv` **inside the same folder**.
